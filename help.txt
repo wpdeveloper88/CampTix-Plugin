@@ -1,0 +1,17 @@
+Can you take the following changes out:
+
+Git Change that client needsline 
+
+6031 to 6083 commented out - because we do not use camptix paymentadded lines 
+5716 to 5737 - to add the tickets to the wpsc shopping cartadded line 
+5570 and line 5573 - need the quantity of the tickets being bought/added to the cartadded lines 
+3738 to 3748 - to add the corresponding product for every ticket savedadded lines 
+3724 to 3728 - to add the corresponding product for every ticket savedadded lines 
+3687 to 3718 - to add the corresponding product for every ticket savedline 
+3628 to 3635 commented out - because we do not use camptix payment and payment tabs in admin panelline 
+1895 commented out - because we do not use the tab in admin panelline 
+1744 to 1745 commented out - because we do not use the tab in admin panelline 
+1730 commented out - because we do not use the menu in admin panelline 
+908 to 941 commented out - because we do not use the the tix_couponand combine them into a new addon in the addons folder
+
+
